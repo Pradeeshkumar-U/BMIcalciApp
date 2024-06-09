@@ -286,7 +286,7 @@ class _MyAppState extends State<HomePage> {
                                             fontWeight: FontWeight.bold),
                                       ),
                                       AutoSizeText(
-                                        minFontSize: 30,
+                                        minFontSize: 35,
                                         maxFontSize: 50,
                                         overflow: TextOverflow.ellipsis,
                                         '$num',
