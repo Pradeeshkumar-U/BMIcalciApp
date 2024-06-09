@@ -269,7 +269,7 @@ class _MyAppState extends State<HomePage> {
                     Flexible(
                       child: Row(
                         children: [
-                          Expanded(
+                          Flexible(
                             child: CardBox(
                                 Colors.teal.shade400,
                                 Padding(
@@ -316,7 +316,7 @@ class _MyAppState extends State<HomePage> {
                                   ),
                                 )),
                           ),
-                          Expanded(
+                          Flexible(
                               child: CardBox(
                                   Colors.teal.shade400,
                                   Column(
