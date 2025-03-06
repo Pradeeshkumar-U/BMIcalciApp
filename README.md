@@ -11,7 +11,7 @@ How to Run
 git clone https://github.com/Pradeeshkumar-U/BMIcalciApp.git
 
 2️⃣ Navigate to the project folder
-cd bmi-calculator
+cd BMIcalciApp
 
 3️⃣ Get dependencies
 flutter pub get
