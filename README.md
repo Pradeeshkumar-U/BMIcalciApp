@@ -19,4 +19,6 @@ flutter pub get
 4️⃣ Run the app
 flutter run
 
-![WhatsApp Image 2025-03-06 at 10 19 24_a4c76123](https://github.com/user-attachments/assets/83f5dcb5-645f-4b99-b42a-a3340da67e71)
+# Screenshots of the APP
+![WhatsApp Image 2025-03-06 at 10 19 24_a4c76123](https://github.com/user-attachments/assets/83f5dcb5-645f-4b99-b42a-a3340da67e71) ![WhatsApp Image 2025-03-06 at 10 19 24_c297a5df](https://github.com/user-attachments/assets/5367a73b-0742-4c72-8133-7e63e20e07b1)
+
