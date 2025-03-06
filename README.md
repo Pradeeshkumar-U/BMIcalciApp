@@ -8,7 +8,7 @@ Features
 
 How to Run
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/bmi-calculator.git
+git clone https://github.com/Pradeeshkumar-U/BMIcalciApp.git
 
 2️⃣ Navigate to the project folder
 cd bmi-calculator
